@@ -1,3 +1,4 @@
+# IDK THE NAME
 you aim randomly but shoot the target with the same xray logic
 ```js
 //by Kxrimmm
